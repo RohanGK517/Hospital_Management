@@ -22,10 +22,10 @@ We have build a great environment with many talented and experienced doctors wor
 These things lead us to be a great help for people and continue the process of helping and connecting the needed to the resourced ones.
 We continue on working at improvement part of the project with the help of the feedbacks.
 
-#To run the project on your system
+# To run the project on your system
 Step-1: First we need python to run the project, so go to ‘Download Python | Python.org’ and install the latest version of python, if your system doesn’t have python.
 
-Step-2: Then Download the zipped folder from github and unzip it.
+Step-2: Then Download the zipped folder from github and unzip it. 
 
 Step-3: Open Command Prompt and navigate to hospital folder using the command: 
 
