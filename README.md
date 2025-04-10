@@ -27,7 +27,7 @@ Step-1: First we need python to run the project, so go to ‘Download Python | P
 
 Step-2: Then Download the zipped folder from github and unzip it. 
 
-Step-3: Open Command Prompt and navigate to hospital folder using the command: 
+Step-3: Open the main file and enter cmd in the navigation bar path. It will redirect you to command prompt with the project path
 
 Step-4: Now, install Django by using the command:
 pip install django
